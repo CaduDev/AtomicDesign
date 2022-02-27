@@ -27,11 +27,11 @@
 </div>
 
 ##
-<div style="display:flex;">
-	<img src="https://i.imgur.com/hkm84zQ.png" width="24%">
-	<img src="https://i.imgur.com/FrLI7pR.png" width="24%">
-</div>
 
 <div style="display:flex;">
-    <img src="https://i.imgur.com/MhXt62C.png" width="80%">
+    <img src="https://i.imgur.com/bR8PhGS.jpg" width="100%">
+</div>
+<div style="display:flex;">
+	<img src="https://i.imgur.com/hkm84zQ.png" width="50%">
+	<img src="https://i.imgur.com/FrLI7pR.png" width="50%">
 </div>
