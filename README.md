@@ -32,6 +32,6 @@
     <img src="https://i.imgur.com/bR8PhGS.jpg" width="100%">
 </div>
 <div style="display:flex;">
-	<img src="https://i.imgur.com/hkm84zQ.png" width="50%">
-	<img src="https://i.imgur.com/FrLI7pR.png" width="50%">
+	<img src="https://i.imgur.com/hkm84zQ.png" width="49%">
+	<img src="https://i.imgur.com/FrLI7pR.png" width="49%">
 </div>
