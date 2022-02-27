@@ -33,5 +33,5 @@
 </div>
 
 <div style="display:flex;">
-    <img src="https://i.imgur.com/887Kb5d.png" width="80%">
+    <img src="https://i.imgur.com/MhXt62C.png" width="80%">
 </div>
